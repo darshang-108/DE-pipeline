@@ -1,0 +1,46 @@
+order_id,product_name,category,unit_price,customer_first_name,customer_last_name,customer_email,customer_city,customer_state,quantity,sale_date
+ORD-2026-0001,Wireless Mouse,Electronics,29.99,Aarav,Sharma,aarav.sharma@email.com,Mumbai,Maharashtra,2,2026-01-05
+ORD-2026-0002,USB-C Hub,Electronics,49.99,Priya,Patel,priya.patel@email.com,Bangalore,Karnataka,1,2026-01-07
+ORD-2026-0003,Mechanical Keyboard,Electronics,89.99,Rohan,Gupta,rohan.gupta@email.com,Delhi,Delhi,1,2026-01-10
+ORD-2026-0004,Laptop Stand,Accessories,39.99,Sneha,Iyer,sneha.iyer@email.com,Chennai,Tamil Nadu,3,2026-01-12
+ORD-2026-0005,LED Desk Lamp,Home Office,34.99,Vikram,Singh,vikram.singh@email.com,Pune,Maharashtra,1,2026-01-15
+ORD-2026-0006,Noise Cancelling Headphones,Audio,149.99,Anjali,Verma,anjali.verma@email.com,Hyderabad,Telangana,1,2026-01-17
+ORD-2026-0007,Cable Management Kit,Accessories,19.99,Karthik,Nair,karthik.nair@email.com,Kochi,Kerala,4,2026-01-19
+ORD-2026-0008,Webcam HD Pro,Electronics,59.99,Meera,Joshi,meera.joshi@email.com,Ahmedabad,Gujarat,1,2026-01-21
+ORD-2026-0009,Ergonomic Cushion,Home Office,44.99,Arjun,Reddy,arjun.reddy@email.com,Bangalore,Karnataka,2,2026-01-23
+ORD-2026-0010,Monitor Arm,Accessories,79.99,Deepa,Kumar,deepa.kumar@email.com,Jaipur,Rajasthan,1,2026-01-25
+ORD-2026-0011,Wireless Mouse,Electronics,29.99,Rahul,Menon,rahul.menon@email.com,Trivandrum,Kerala,3,2026-01-27
+ORD-2026-0012,USB-C Hub,Electronics,49.99,Kavita,Deshmukh,kavita.deshmukh@email.com,Nagpur,Maharashtra,1,2026-01-29
+ORD-2026-0013,Mechanical Keyboard,Electronics,89.99,Suresh,Bhat,suresh.bhat@email.com,Mangalore,Karnataka,1,2026-01-31
+ORD-2026-0014,Laptop Stand,Accessories,39.99,Nisha,Agarwal,nisha.agarwal@email.com,Lucknow,Uttar Pradesh,2,2026-02-02
+ORD-2026-0015,Noise Cancelling Headphones,Audio,149.99,Amit,Tiwari,amit.tiwari@email.com,Indore,Madhya Pradesh,1,2026-02-04
+ORD-2026-0016,LED Desk Lamp,Home Office,34.99,Aarav,Sharma,aarav.sharma@email.com,Mumbai,Maharashtra,2,2026-02-06
+ORD-2026-0017,Webcam HD Pro,Electronics,59.99,Priya,Patel,priya.patel@email.com,Bangalore,Karnataka,1,2026-02-08
+ORD-2026-0018,Wireless Mouse,Electronics,29.99,Rohan,Gupta,rohan.gupta@email.com,Delhi,Delhi,1,2026-02-10
+ORD-2026-0019,Cable Management Kit,Accessories,19.99,Sneha,Iyer,sneha.iyer@email.com,Chennai,Tamil Nadu,5,2026-02-12
+ORD-2026-0020,Ergonomic Cushion,Home Office,44.99,Vikram,Singh,vikram.singh@email.com,Pune,Maharashtra,1,2026-02-14
+ORD-2026-0021,Monitor Arm,Accessories,79.99,Anjali,Verma,anjali.verma@email.com,Hyderabad,Telangana,1,2026-02-16
+ORD-2026-0022,USB-C Hub,Electronics,49.99,Karthik,Nair,karthik.nair@email.com,Kochi,Kerala,2,2026-02-18
+ORD-2026-0023,Mechanical Keyboard,Electronics,89.99,Meera,Joshi,meera.joshi@email.com,Ahmedabad,Gujarat,1,2026-02-20
+ORD-2026-0024,Laptop Stand,Accessories,39.99,Arjun,Reddy,arjun.reddy@email.com,Bangalore,Karnataka,1,2026-02-22
+ORD-2026-0025,Noise Cancelling Headphones,Audio,149.99,Deepa,Kumar,deepa.kumar@email.com,Jaipur,Rajasthan,1,2026-02-24
+ORD-2026-0026,Wireless Mouse,Electronics,29.99,Rahul,Menon,rahul.menon@email.com,Trivandrum,Kerala,2,2026-02-26
+ORD-2026-0027,LED Desk Lamp,Home Office,34.99,Kavita,Deshmukh,kavita.deshmukh@email.com,Nagpur,Maharashtra,1,2026-02-28
+ORD-2026-0028,Webcam HD Pro,Electronics,59.99,Suresh,Bhat,suresh.bhat@email.com,Mangalore,Karnataka,2,2026-03-02
+ORD-2026-0029,Cable Management Kit,Accessories,19.99,Nisha,Agarwal,nisha.agarwal@email.com,Lucknow,Uttar Pradesh,3,2026-03-04
+ORD-2026-0030,Ergonomic Cushion,Home Office,44.99,Amit,Tiwari,amit.tiwari@email.com,Indore,Madhya Pradesh,1,2026-03-06
+ORD-2026-0031,Monitor Arm,Accessories,79.99,Aarav,Sharma,aarav.sharma@email.com,Mumbai,Maharashtra,1,2026-03-08
+ORD-2026-0032,Mechanical Keyboard,Electronics,89.99,Priya,Patel,priya.patel@email.com,Bangalore,Karnataka,2,2026-03-10
+ORD-2026-0033,USB-C Hub,Electronics,49.99,Rohan,Gupta,rohan.gupta@email.com,Delhi,Delhi,1,2026-03-12
+ORD-2026-0034,Wireless Mouse,Electronics,29.99,Sneha,Iyer,sneha.iyer@email.com,Chennai,Tamil Nadu,4,2026-03-14
+ORD-2026-0035,Laptop Stand,Accessories,39.99,Vikram,Singh,vikram.singh@email.com,Pune,Maharashtra,1,2026-03-16
+ORD-2026-0036,LED Desk Lamp,Home Office,34.99,Anjali,Verma,anjali.verma@email.com,Hyderabad,Telangana,2,2026-03-18
+ORD-2026-0037,Noise Cancelling Headphones,Audio,149.99,Karthik,Nair,karthik.nair@email.com,Kochi,Kerala,1,2026-03-20
+ORD-2026-0038,Webcam HD Pro,Electronics,59.99,Meera,Joshi,meera.joshi@email.com,Ahmedabad,Gujarat,1,2026-03-22
+ORD-2026-0039,Ergonomic Cushion,Home Office,44.99,Arjun,Reddy,arjun.reddy@email.com,Bangalore,Karnataka,1,2026-03-24
+ORD-2026-0040,Cable Management Kit,Accessories,19.99,Deepa,Kumar,deepa.kumar@email.com,Jaipur,Rajasthan,2,2026-03-26
+ORD-2026-0041,Monitor Arm,Accessories,79.99,Rahul,Menon,rahul.menon@email.com,Trivandrum,Kerala,1,2026-03-28
+ORD-2026-0042,Wireless Mouse,Electronics,29.99,Kavita,Deshmukh,kavita.deshmukh@email.com,Nagpur,Maharashtra,1,2026-03-30
+ORD-2026-0043,,Electronics,29.99,Suresh,Bhat,suresh.bhat@email.com,Mangalore,Karnataka,1,2026-02-15
+ORD-2026-0044,Wireless Mouse,Electronics,29.99,Nisha,Agarwal,nisha.agarwal@email.com,Lucknow,Uttar Pradesh,-2,2026-03-15
+ORD-2026-0045,Laptop Stand,Accessories,39.99,Amit,Tiwari,amit.tiwari@email.com,Indore,Madhya Pradesh,1,2026-04-15
